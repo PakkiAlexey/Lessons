@@ -8,6 +8,7 @@ public class Main {
         // IntelliJ IDEA suggests fixing it.
         System.out.print("Hello world from lesson!");
         System.out.println("Hello from feature branch");
+        System.out.println("Hello");
 
 
         // Press Shift+F10 or click the green arrow button in the gutter to run the code.
